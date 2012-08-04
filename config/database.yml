@@ -1,0 +1,14 @@
+development:
+  host: localhost
+  adapter: postgresql
+  database: json_db
+  username: hubworks
+  password: vegpuf
+
+## YAML Template.
+production:
+  host: localhost
+  adapter: postgresql
+  database: json_db
+  username: hubworks
+  password: vegpuf

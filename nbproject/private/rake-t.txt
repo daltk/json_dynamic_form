@@ -1,0 +1,5 @@
+(in /Users/rajeshwarmothe/Desktop/jso)
+rake aborted!
+Could not find multi_json-1.3.6 in any of the sources
+/Users/rajeshwarmothe/Desktop/jso/Rakefile:5:in `require'
+(See full trace by running task with --trace)
